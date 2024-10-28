@@ -1,0 +1,4 @@
+git checkout -b gh-pages
+git add .
+git commit -m "Add folder for GitHub Pages"
+git push origin gh-pages
